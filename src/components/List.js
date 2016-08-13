@@ -1,5 +1,5 @@
 /**
- * Created by yaoxy on 2016/8/1.
+ * Created by yaotaiyang on 2016/8/1.
  */
 import React, { PropTypes, Component } from 'react'
 import classNames from 'classnames';

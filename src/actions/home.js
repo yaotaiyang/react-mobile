@@ -1,5 +1,5 @@
 /**
- * Created by yaoxy on 2016/7/5.
+ * Created by yaotaiyang on 2016/7/5.
  */
 import fetch from 'isomorphic-fetch'
 export const HOME_ADDDATA = 'HOME_ADDDATA'

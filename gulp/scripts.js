@@ -1,3 +1,6 @@
+/**
+ * Created by yaotaiyang on 2016/8/1.
+ */
 
 var gulp = require('gulp'),
     $ = require('gulp-load-plugins')(),

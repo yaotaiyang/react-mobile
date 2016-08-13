@@ -1,5 +1,5 @@
 /**
- * Created by yaoxy on 2016/8/8.
+ * Created by yaotaiyang on 2016/8/8.
  */
 export function onEnter(){
     window.sTime = window.sTime ||{};

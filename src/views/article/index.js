@@ -1,5 +1,5 @@
 /**
- * Created by yaoxy on 2016/7/29.
+ * Created by yaotaiyang on 2016/7/29.
  */
 module.exports = {
     childRoutes: [

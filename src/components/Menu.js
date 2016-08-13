@@ -1,5 +1,5 @@
 /**
- * Created by yaoxy on 2016/7/31.
+ * Created by yaotaiyang on 2016/7/31.
  */
 import React, { Component, PropTypes } from 'react'
 import { Link } from 'react-router'

@@ -1,5 +1,5 @@
 /**
- * Created by yaoxy on 2016/7/5.
+ * Created by yaotaiyang on 2016/7/5.
  */
 import 'babel-core/polyfill'
 import React from 'react'

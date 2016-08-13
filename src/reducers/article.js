@@ -1,5 +1,5 @@
 /**
- * Created by yaoxy on 2016/8/3.
+ * Created by yaotaiyang on 2016/8/3.
  */
 
 import {GET_ARTICLE} from '../actions/article'

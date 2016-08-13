@@ -1,5 +1,5 @@
 /**
- * Created by yaoxy on 2016/8/2.
+ * Created by yaotaiyang on 2016/8/2.
  */
 import {home} from './home';
 import {list} from './list';
