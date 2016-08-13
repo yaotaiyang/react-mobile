@@ -21,4 +21,4 @@ react+react-router单页移动开发
 5.访问localhost:9999
 
 
-![screenshoot](screenshot.png)
+![screen](screen.png)
