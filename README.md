@@ -19,3 +19,6 @@ react+react-router单页移动开发
 （api接口部分，动态数据）
 
 5.访问localhost:9999
+
+
+![screenshoot](screenshot.png)
