@@ -1,6 +1,3 @@
-/**
- * Created by Rayr Lee on 2016/6/2.
- */
 
 var gulp = require('gulp'),
     $ = require('gulp-load-plugins')(),
